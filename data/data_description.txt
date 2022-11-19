@@ -10,7 +10,7 @@ MSSubClass: Identifies the type of dwelling involved in the sale.
         75	2-1/2 STORY ALL AGES
         80	SPLIT OR MULTI-LEVEL
         85	SPLIT FOYER
-        90	DUPLEX - ALL STYLES AND AGES
+        90	DUPLEX - ALL STYLES AND AGESasdfasdf
        120	1-STORY PUD (Planned Unit Development) - 1946 & NEWER
        150	1-1/2 STORY PUD - ALL AGES
        160	2-STORY PUD - 1946 & NEWER
